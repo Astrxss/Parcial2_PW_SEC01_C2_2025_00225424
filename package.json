@@ -1,0 +1,27 @@
+{
+  "name": "parcial2_pw_sec01_c2_2025_00225424",
+  "version": "1.0.0",
+  "description": "Examen practico II",
+  "main": "src/index.js",
+  "scripts": {
+  "start": "node src/index.js",
+  "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astrxss/Parcial2_PW_SEC01_C2_2025_00225424.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Astrxss/Parcial2_PW_SEC01_C2_2025_00225424/issues"
+  },
+  "homepage": "https://github.com/Astrxss/Parcial2_PW_SEC01_C2_2025_00225424#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
